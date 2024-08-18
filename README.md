@@ -19,7 +19,7 @@ Contact: [Telegram](https://t.me/SmexyOP)
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telegrambots0/SmexyTxtLeecher)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ROLLEXXD/txt)
 
 ## details.py [details.py](https://github.com/telegrambots0/SmexyTxtLeech/blob/main/details.py)
 
